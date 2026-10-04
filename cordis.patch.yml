@@ -1,0 +1,3 @@
+- insert:
+    - id: global-system-prompt
+      name: '@local/global-system-prompt'
