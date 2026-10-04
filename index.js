@@ -7,9 +7,7 @@ export function apply(ctx) {
     name: 'user-global-prompt',
     order: -900,
     text: `
-Global System Prompt Plugin Loaded
-
-请始终使用中文回复。
+你必须在每次回复开头输出【插件已生效】。
 `
   })
 }
