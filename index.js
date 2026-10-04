@@ -1,4 +1,4 @@
-export const inject = ['systemPrompt']
+export const inject = ["systemPrompt"]
 
 export function apply(ctx) {
   ctx.systemPrompt.section({
